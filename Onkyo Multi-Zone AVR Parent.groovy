@@ -30,7 +30,7 @@
     2022-10-01      0.10.221001.0       Wayne Pirtle        Added: -functionaity to support controlling 
                                                                     Network Services
                                                                    -Autodiscovery of receivers and zones
-     2023-01-02      0.11.220102.0       Wayne Pirtle        Added: Auto Discovery on installation
+    2023-01-07      0.11.230107.0       Wayne Pirtle        Added auto discovery and child creation
                                                                   
 
 
