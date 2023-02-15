@@ -39,7 +39,7 @@ DO NOT USE THIS VERSION FOR ANY OTHER PURPOSE.
                                                                   
 
 
-    WARNING!
+    WARNING! 
         In addition to controlling basic receiver functionality, this driver also includes 
         the ability to set volume levels and other settings using raw eISCP commands. Some 
         commands such as volume level, allow you to enter a value from a given min/max value 
